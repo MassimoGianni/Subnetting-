@@ -1,1 +1,1 @@
-# Subnetting-
+ Praticamente ho fatto una subnetting che ci permette di dividere una rete IP in sottoreti più piccole, in modo che i dispositivi all'interno di una stessa sottorete possano comunicare direttamente tra loro senza dover passare attraverso un router, riducendo così il traffico sulla rete e aumentando le prestazioni.
